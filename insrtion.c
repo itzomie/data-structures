@@ -1,3 +1,7 @@
+/*this program is written by Omkar Sulakhe 
+the following program demonstrates the use of arrays and passing them as parameter tgo functions.
+note: it is better to declare array and its size n as global*/
+
 #include<stdio.h>
 void insert();
 void deleten();

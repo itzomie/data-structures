@@ -65,7 +65,7 @@ int evaluate_postfix(char postexpr[])
             {
                 case '+':res=op2+op1;
                 break;
-                case '-':res=op2-op1;
+                case '-':res=op1-op2;
                 break;
                 case '*':res=op2*op1;
                 break;
